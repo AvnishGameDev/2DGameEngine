@@ -1,0 +1,8 @@
+# Ignore Visual Studio .vs folder
+.vs/
+
+# Ignore build output folders
+**/x64/
+
+# Ignore executable files
+*.exe
